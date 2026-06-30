@@ -469,13 +469,13 @@ infra-repo/
 
 # 🧮 Grading Breakdown
 
-| Section                                 | Points |
-| --------------------------------------- | ------ |
-| Part 1 – Three-Tier Application         | 25     |
-| Part 2 – Deployment & Artifact Registry | 25     |
-| Part 3 – Build Process                  | 25     |
-| Part 4 – Deployment Process             | 25     |
-| Part 5 – Monitoring Platform            | 10     |
+| Section                                        | Points |
+| ---------------------------------------------- | ------ |
+| Part 1 – Three-Tier Application                | 25     |
+| Part 2 – Deployment & Artifact Registry        | 25     |
+| Part 3 – Build Process                         | 25     |
+| Part 4 – Deployment Process                    | 25     |
+| Bonus: Part 5 – Monitoring Platform            | 10     |
 
 ---
 
