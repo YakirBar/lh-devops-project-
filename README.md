@@ -15,11 +15,11 @@ In this project you will build a complete cloud-native platform that includes:
 * 📊 Grafana Stack
 * 🗂 Git Workflow
 
-The project is divided into **5 main parts**.
+The project is divided into **4 main parts**.
 
 ---
 
-# 📦 Part 1 – Three-Tier Application (20 Points)
+# 📦 Part 1 – Three-Tier Application (25 Points)
 
 ## 🎯 Objective
 
@@ -163,7 +163,7 @@ Examples:
 
 ---
 
-# ☸️ Part 2 – Deployment & Artifact Registry (20 Points)
+# ☸️ Part 2 – Deployment & Artifact Registry (25 Points)
 
 ## 🎯 Objective
 
@@ -235,7 +235,7 @@ Nexus will serve as the private container registry for the project.
 
 ---
 
-# 🧪 Part 3 – Build Process (20 Points)
+# 🧪 Part 3 – Build Process (25 Points)
 
 ## 🎯 Objective
 
@@ -277,7 +277,7 @@ After Build Pipeline Completes
 
 ---
 
-# 🚀 Part 4 – Deployment Process (20 Points)
+# 🚀 Part 4 – Deployment Process (25 Points)
 
 ## 🎯 Objective
 
@@ -335,7 +335,7 @@ Connect GitHub using:
 
 ---
 
-# 📊 Part 5 – Monitoring Platform (20 Points)
+# 📊 Bonus: Part 5 – Monitoring Platform (10 Points)
 
 ## 🎯 Objective
 
@@ -471,11 +471,11 @@ infra-repo/
 
 | Section                                 | Points |
 | --------------------------------------- | ------ |
-| Part 1 – Three-Tier Application         | 20     |
-| Part 2 – Deployment & Artifact Registry | 20     |
-| Part 3 – Build Process                  | 20     |
-| Part 4 – Deployment Process             | 20     |
-| Part 5 – Monitoring Platform            | 20     |
+| Part 1 – Three-Tier Application         | 25     |
+| Part 2 – Deployment & Artifact Registry | 25     |
+| Part 3 – Build Process                  | 25     |
+| Part 4 – Deployment Process             | 25     |
+| Part 5 – Monitoring Platform            | 10     |
 
 ---
 
