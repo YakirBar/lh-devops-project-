@@ -255,7 +255,7 @@ PUSH → DEV Branch
 
 1. Build application artifacts
 2. Build Docker images
-3. Push images to DockerHub Repository
+3. Push images to NexusHub Repository
 
 ---
 
